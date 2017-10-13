@@ -1,0 +1,8 @@
+[NbGraderApp | INFO] New config file saved to 'nbgrader_config.py'
+[AssignApp | INFO] Copying /Users/andrew/notebooks/courset_demo_1/source/./ps1/jupyter.png -> /Users/andrew/notebooks/courset_demo_1/release/./ps1/jupyter.png
+[AssignApp | INFO] Updating/creating assignment 'ps1': {}
+[AssignApp | INFO] Converting notebook /Users/andrew/notebooks/courset_demo_1/source/./ps1/problem1.ipynb
+[AssignApp | INFO] Writing 7884 bytes to /Users/andrew/notebooks/courset_demo_1/release/./ps1/problem1.ipynb
+[AssignApp | INFO] Converting notebook /Users/andrew/notebooks/courset_demo_1/source/./ps1/problem2.ipynb
+[AssignApp | INFO] Writing 2258 bytes to /Users/andrew/notebooks/courset_demo_1/release/./ps1/problem2.ipynb
+[AssignApp | INFO] Setting destination file permissions to 644
